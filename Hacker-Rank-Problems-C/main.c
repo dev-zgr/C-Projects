@@ -6,9 +6,9 @@
 //
 
 #include <stdio.h>
-
+#include <string.h>
+#include <stdlib.h>
+#include "Sorting Array of Strings.h"
+int lexicographic_sort(const char* a, const char* b);
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return 0;
 }
