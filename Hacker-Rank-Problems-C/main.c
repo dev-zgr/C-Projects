@@ -11,5 +11,4 @@
 #include "Sorting Array of Strings.h"
 int lexicographic_sort(const char* a, const char* b);
 int main(int argc, const char * argv[]) {
-    printf("trying");
 }
