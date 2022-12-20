@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-
+#include "Querying the Document.h"
 int lexicographic_sort(const char* a, const char* b);
 int main(int argc, const char * argv[]) {
 
