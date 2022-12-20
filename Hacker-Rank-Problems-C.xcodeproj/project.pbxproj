@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		1B6AD76C2951B54D00DE79BC /* Printing Patterns Using Loops.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Printing Patterns Using Loops.h"; sourceTree = "<group>"; };
 		1B6AD76D2951B66500DE79BC /* Querying the Document.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Querying the Document.h"; sourceTree = "<group>"; };
+		1B6AD76E2951B77B00DE79BC /* Sorting Array of String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sorting Array of String.h"; sourceTree = "<group>"; };
 		1B89F9F3294CEE1F005A9ED9 /* Hacker-Rank-Problems-C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Hacker-Rank-Problems-C"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B89F9F6294CEE1F005A9ED9 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -43,6 +44,7 @@
 		1B89F9EA294CEE1F005A9ED9 = {
 			isa = PBXGroup;
 			children = (
+				1B6AD76E2951B77B00DE79BC /* Sorting Array of String.h */,
 				1B6AD76C2951B54D00DE79BC /* Printing Patterns Using Loops.h */,
 				1B6AD76D2951B66500DE79BC /* Querying the Document.h */,
 				1B89F9F5294CEE1F005A9ED9 /* Hacker-Rank-Problems-C */,
