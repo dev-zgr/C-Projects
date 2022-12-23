@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1B48863329561F2A00C79755 /* Array Reversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Array Reversal.h"; sourceTree = "<group>"; };
 		1B6AD76C2951B54D00DE79BC /* Printing Patterns Using Loops.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Printing Patterns Using Loops.h"; sourceTree = "<group>"; };
 		1B6AD76D2951B66500DE79BC /* Querying the Document.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Querying the Document.h"; sourceTree = "<group>"; };
 		1B6AD76E2951B77B00DE79BC /* Sorting Array of String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sorting Array of String.h"; sourceTree = "<group>"; };
@@ -45,6 +46,7 @@
 		1B89F9EA294CEE1F005A9ED9 = {
 			isa = PBXGroup;
 			children = (
+				1B48863329561F2A00C79755 /* Array Reversal.h */,
 				1BE950F629561B0500CCACFF /* Small Triangles, Large Triangles.h */,
 				1B6AD76E2951B77B00DE79BC /* Sorting Array of String.h */,
 				1B6AD76C2951B54D00DE79BC /* Printing Patterns Using Loops.h */,
