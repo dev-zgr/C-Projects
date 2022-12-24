@@ -31,6 +31,7 @@
 		1B89F9F6294CEE1F005A9ED9 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		1BE950F629561B0500CCACFF /* Small Triangles, Large Triangles.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Small Triangles, Large Triangles.h"; sourceTree = "<group>"; };
 		1BF0B0A82956F389005F179E /* Printing Tokens.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Printing Tokens.h"; sourceTree = "<group>"; };
+		1BF0B0A92956F4A9005F179E /* Insertion Sort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Insertion Sort.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +48,7 @@
 		1B89F9EA294CEE1F005A9ED9 = {
 			isa = PBXGroup;
 			children = (
+				1BF0B0A92956F4A9005F179E /* Insertion Sort.h */,
 				1BF0B0A82956F389005F179E /* Printing Tokens.h */,
 				1B48863329561F2A00C79755 /* Array Reversal.h */,
 				1BE950F629561B0500CCACFF /* Small Triangles, Large Triangles.h */,
